@@ -21,20 +21,3 @@ During my training and internship at Defronix, I worked on real-world projects i
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/d7848a4f-93c2-44b3-bb1a-77e7882467ca.com/7250a133b41b5107132e31cbe2c243d2" alt="john the ripper" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadDaniyal341&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDaniyal341&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadDaniyal341&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/MuhammadDaniyal341/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadDaniyal341" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadDaniyal341&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
