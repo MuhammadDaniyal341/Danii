@@ -8,9 +8,7 @@ During my training and internship at Defronix, I worked on real-world projects i
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/rao-muhammad-daniyal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-<img src="https://raw.githubusercontent.com/MuhammadDaniyal341/MuhammadDaniyal341/output/snake.svg" alt="Snake animation" />
 
-###
 ## Skills
 
 <p align="left">
